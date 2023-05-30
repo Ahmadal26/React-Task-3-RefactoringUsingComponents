@@ -60,3 +60,6 @@ body {
 .text {
   text-align: center;
 }
+.product {
+  border: 1px solid black;
+}
